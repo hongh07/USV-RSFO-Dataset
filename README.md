@@ -1,5 +1,5 @@
 # USV-WSFO-Dataset
-The USV- RSFO dataset comprises eight categories of river surface floating objects: Bottle, Plastic bag, Foam board, Leaf, Branch, Boat, Others (unclassifiable monolithic garbage), and Mixed garbage. 
+The USV- WSFO dataset comprises eight categories of water surface floating objects: Bottle, Plastic bag, Foam board, Leaf, Branch, Boat, Others (unclassifiable monolithic garbage), and Mixed garbage. 
 
 ## Dataset source
 The dataset collected from the river section of Fuzhou City, Fujian Province, China.
